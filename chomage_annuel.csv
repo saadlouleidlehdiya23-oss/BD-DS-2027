@@ -1,0 +1,10 @@
+annee,taux_chomage_hcp,taux_chomage_oit_banque_mondiale,taux_activite_hcp,statut_donnee,source_hcp
+2017,10.2,,,a_verifier_sur_hcp.ma,https://www.hcp.ma
+2018,9.8,,,a_verifier_sur_hcp.ma,https://www.hcp.ma
+2019,9.2,9.191,,source,https://www.cmconjoncture.com/conjoncture/actualites/le-chomage-au-maroc
+2020,11.9,11.189,44.8,source,https://www.cmconjoncture.com/conjoncture/actualites/le-chomage-au-maroc
+2021,12.3,10.551,,source,https://labass.net/tag/taux-de-chomage-au-maroc
+2022,11.8,9.413,,source,https://lematin.ma/economie/le-taux-de-chomage-en-hausse-a-13-en-2023-hcp/212251
+2023,13.0,8.896,43.6,source,https://lematin.ma/economie/le-taux-de-chomage-en-hausse-a-13-en-2023-hcp/212251
+2024,13.3,,43.5,source,https://ecoactu.ma/le-taux-de-chomage-recule-de-03-pas-a-13-en-2025-hcp/
+2025,13.0,,43.5,source,https://ecoactu.ma/le-taux-de-chomage-recule-de-03-pas-a-13-en-2025-hcp/
